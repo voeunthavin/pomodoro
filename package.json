@@ -1,0 +1,19 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "My delightful electron project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voeunthavin/pomodoro.git"
+  },
+  "author": "Voeun Thavin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voeunthavin/pomodoro/issues"
+  },
+  "homepage": "https://github.com/voeunthavin/pomodoro#readme"
+}
