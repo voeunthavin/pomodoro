@@ -1,0 +1,16 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "My first delightful electron project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/voeunthavin/pomodoro.git",
+  "author": "Voeun Thavin",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "electron": "^11.1.0"
+  }
+}
